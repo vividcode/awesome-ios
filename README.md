@@ -2153,7 +2153,10 @@ Most of these are paid services, some have free tiers.
 * [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
 * [VariousViewsEffects](https://github.com/artrmz/VariousViewsEffects) - Animates views nicely with easy to use extensions.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
-* [Poi](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
+* [Poi](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like 
+
+
+method.
 * [Sica](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
 * [fireworks](https://github.com/tomkowz/fireworks) - Fireworks effect for UIView
 * [Disintegrate](https://github.com/dbukowski/Disintegrate) - Disintegration animation inspired by THAT thing Thanos did at the end of Avengers: Infinity War.
@@ -2694,6 +2697,7 @@ Most of these are paid services, some have free tiers.
 * [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 * [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
 * [ThunderTable](https://github.com/3sidedcube/ThunderTable) - A simple declarative approach to UITableViewController management using a protocol-based approach.
+* [TableSearchViewController](https://github.com/vividcode/TableSearchViewController) - a very powerful UITableViewController that can handle search, select and deleting from list of objects in declarative way. Available in Objective C and Swift.
 
 #### Collection View
 
